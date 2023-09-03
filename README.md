@@ -1,2 +1,2 @@
 # Wiki-Web-Scraper
-Selenium Webscraper and ETL process that scrapes a wikipedia web page and loads the data in JSON format
+Selenium Webscraper and ETL process that extracts data from a Wikipedia page and loads it in a JSON file.
