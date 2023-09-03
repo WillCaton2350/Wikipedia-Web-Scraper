@@ -1,0 +1,7 @@
+search_Xpath = '//*[@id="searchInput"]'
+searchBtn = '//*[@id="search-form"]/fieldset/button'
+title_Xpath = '//*[@id="firstHeading"]/span'
+bio1 = '//*[@id="mw-content-text"]/div[1]/p[2]'
+bio2 = '//*[@id="mw-content-text"]/div[1]/p[3]'
+bio3 = '/html/body/div[2]/div/div[3]'
+geckoDriverPath = '/Users/administrator/Desktop/Projects/SeleniumProjects/seleniummETL/Bot/Driver/geckodriver'
