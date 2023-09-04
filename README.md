@@ -1,2 +1,2 @@
 # Wiki-Web-Scraper
-Selenium Webscraper, Webparser and ETL process that extracts data from a Wikipedia page and transforms it into a JSON file. (The data was transformed into a JSON file so that it can be easily accessed an API)
+I Developed a Selenium-based web scraper and parser to extract data from a Wikipedia page. Implemented an ETL (Extract, Transform, Load) process to transform the extracted data into a JSON file. This JSON file serves as a potential data source for an API, enhancing data accessibility."
